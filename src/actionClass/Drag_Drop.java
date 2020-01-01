@@ -22,7 +22,7 @@ public class Drag_Drop {
 		.release()
 		.build()
 		.perform();
-		System.out.println("Test");
+	
 		
 		
 				
